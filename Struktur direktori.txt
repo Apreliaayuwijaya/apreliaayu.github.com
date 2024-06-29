@@ -1,0 +1,11 @@
+/umkm-website
+    /css
+        styles.css
+    /js
+        script.js
+    /images
+        [gambar produk dan banner]
+    index.html
+    Daftar Produk.html
+    Tentang Kami.html
+    Cara Pemesanan.html
